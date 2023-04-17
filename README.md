@@ -6,6 +6,6 @@ Some of my solutions to [GoogleCodeJam](https://codingcompetitions.withgoogle.co
 
 <img src="https://raw.githubusercontent.com/AdrienC21/googlecodejam/main/googlecodejamlogo.png"  width=60% height=60%>
 
-* [Code Jam 2023 (Farewell Rounds)](https://github.com/AdrienC21/googlecodejam/2023)
-* [Code Jam 2022](https://github.com/AdrienC21/googlecodejam/2022)
-* [Code Jam 2021](https://github.com/AdrienC21/googlecodejam/2021)
+* [Code Jam 2023 (Farewell Rounds)](./2023)
+* [Code Jam 2022](./2022)
+* [Code Jam 2021](./2021)
